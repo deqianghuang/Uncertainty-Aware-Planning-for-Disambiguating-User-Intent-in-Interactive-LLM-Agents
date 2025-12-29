@@ -207,3 +207,18 @@ Place files in the following layout:
 - This repo focuses on planning + uncertainty scoring (training-free).
 - The demo dataset is intentionally small due to privacy constraints.
 - Do not upload private user queries or logs containing sensitive data.
+
+### Citation
+
+If you use this code, please cite:
+
+```bibtex
+@misc{uap_zenodo_2025,
+  author       = {Huang, Deqiang},
+  title        = {Uncertainty-Aware Planning for Disambiguating User Intent in Interactive LLM Agents (UAP)},
+  howpublished = {Zenodo},
+  year         = {2025},
+  doi          = {10.5281/zenodo.18060682},
+  url          = {https://doi.org/10.5281/zenodo.18060682},
+  note         = {Version v1.0.0}
+}
