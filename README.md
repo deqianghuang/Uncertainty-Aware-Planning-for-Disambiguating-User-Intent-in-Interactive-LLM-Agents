@@ -1,5 +1,8 @@
 # Uncertainty-Aware Planning for Disambiguating User Intent in Interactive LLM Agents (UAP)
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18060682.svg)](https://doi.org/10.5281/zenodo.18060682)
+
+
 This repository contains a clean-room, minimal implementation of **uncertainty-aware planning** for map-style tasks:
 
 - **POI**: 兴趣点搜索  
